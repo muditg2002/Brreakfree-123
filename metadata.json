@@ -1,0 +1,5 @@
+{
+  "name": "Pause - Betting Recovery",
+  "description": "A private urge interruption and recovery support system for young adults trying to quit online betting.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
